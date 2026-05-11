@@ -118,3 +118,15 @@ react-native-sdk/sounds
 tests/.env
 test-results
 
+# Bug hunting and security research (do not commit)
+NEW_SECURITY_FINDINGS.md
+SHARED_VIDEO_REVIEW_REPLY.md
+SHARED_VIDEO_PR_REPLY.md
+vulnerability-tests.js
+new-vulnerability-tests.js
+react/features/authentication/jwt-exfiltration.test.ts
+react/features/base/icons/components/SvgXmlIcon.test.tsx
+react/features/base/lib-jitsi-meet/config-injection.test.ts
+security/duplicate/ETHERPAD_URL_POISONING.md
+security/failed/SECURITY_FINDINGS.md
+
